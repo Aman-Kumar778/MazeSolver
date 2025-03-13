@@ -33,7 +33,7 @@ MazeSolver is a web-based application that visualizes maze-solving algorithms li
 5. Reset and try different maze configurations.
 
 ## Demo
-[Live Demo](#)
+[Live Demo](https://aman-kumar778.github.io/MazeSolver/)
 
 ## Screenshots
 *(Include relevant screenshots here.)*
